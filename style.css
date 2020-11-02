@@ -1120,7 +1120,7 @@ a.float:hover + div.label-container {
 }
 
 .body-color {
-  background-color: #2d3436;
+  background-color: #afafaf;
   background-image: linear-gradient(315deg, #2d3436 0%, #000000 74%);
   background-image: none;
 }
